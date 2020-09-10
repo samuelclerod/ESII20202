@@ -2,7 +2,7 @@
 
 ## Comandos básicos
 
-- **status**: Verifica o estado do projeto (*work directory/staging area/repository*);
+- **status**: Verica o estado do projeto (*work directory/staging area/repository*);
 
 - **add**: adiciona arquivos ao *staging area* do git;
 
@@ -10,4 +10,4 @@
 
 - **diff**: Mostra as mudanças entre commits, arquivos ou do com o staging area.
 
-- **log**: Mostra histórico de revisões (*commits*), podenso ser visto em uma linha com a *flag* `--oneline` ou de forma gráfica utilizando `--graph` , ou personalize conforme descrito por [Will Anderson](https://willi.am/blog/2015/02/19/customize-your-git-log-format/);
+- **Log**: Mostra histórico de revisões (*commits*), podenso ser visto em uma linha com a *flag* `--oneline` ou de forma gráfica utilizando `--graph` , ou personalize conforme descrito por [Will Anderson](https://willi.am/blog/2015/02/19/customize-your-git-log-format/);
