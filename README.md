@@ -13,3 +13,5 @@
 - **log**: Mostra histórico de revisões (*commits*), podenso ser visto em uma linha com a *flag* `--oneline` ou de forma gráfica utilizando `--graph` , ou personalize conforme descrito por [Will Anderson](https://willi.am/blog/2015/02/19/customize-your-git-log-format/);
 
 - **checkout**: permite navegar entre commits.
+
+- **branch**: cria novas branch. É possível criar ainda utilizando o comando `git checkout -b <nomeDaBranch>`, o qual cria e navega diretamente para a branch.
