@@ -16,4 +16,14 @@
 
 - **checkout**: permite navegar entre commits;
 
-- **branch**: cria novas branch. É possível criar ainda utilizando o comando `git checkout -b <nomeDaBranch>`, o qual cria e navega diretamente para a branch.
+- **branch**: cria novas branch. É possível criar ainda utilizando o comando `git checkout -b <nomeDaBranch>`, o qual cria e navega diretamente para a branch;
+
+- **remote**: permite executar operações com repositorios remotos;
+
+- **fetch**: faz download do rempositório remoto;
+
+- **pull**: fez download e merge do rempositório remoto, incorporando as mudanças também no workspace;
+
+- **push**: sincroniza o repositóro local com o repositório remoto.
+
+
