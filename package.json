@@ -1,0 +1,14 @@
+{
+  "name": "esii01",
+  "version": "1.0.0",
+  "description": "- **status**: Verica o estado do projeto (*work directory/staging area/repository*);",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
