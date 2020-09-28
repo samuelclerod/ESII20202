@@ -24,6 +24,7 @@
 
 - **pull**: fez download e merge do rempositório remoto, incorporando as mudanças também no workspace;
 
-- **push**: sincroniza o repositóro local com o repositório remoto.
+- **push**: sincroniza o repositóro local com o repositório remoto;
 
+- **tag**: comando utilizado para identificar as versões liberadas. Comumente segue [versionamento semantico](https://semver.org/lang/pt-BR/).
 
