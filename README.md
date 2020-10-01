@@ -30,4 +30,5 @@
 
 ## Conceitos/Recursos do Github
 
- - **Issues**: Problemas, bugs, solicitações de mudanças, adicição features/funcionalidades, solictadas pela equipe ou por algum usuário ou pessoa externa equipe de manutenção do projeto. É um forma de formalizar todas as mudanças que o projeto sofre.
+ - **Issues**: Problemas, bugs, solicitações de mudanças, adicição features/funcionalidades, solictadas pela equipe ou por algum usuário ou pessoa externa equipe de manutenção do projeto. É um forma de formalizar todas as mudanças que o projeto sofre. É possível fechar automaticamente a issue fazendo referencia com o id da Issue na mensagem de commit.
+ 
