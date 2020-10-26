@@ -1,6 +1,6 @@
 # Controle de Versão com GIT
 
-Esse projeto tem o objetivo de apresentar o git e github para práticas nas fábricas da desenvolvimento na disciplina de engenharia de software na Unijuazeiro. O capítulo apresentado se encontram na [parte 1 do slide de gerencia da configuração de software](https://slides.com/samuelclerod/cg-parte1) .
+Esse projeto tem o objetivo de apresentar o git e github para práticas nas fábricas da desenvolvimento na disciplina de engenharia de software na Unijuazeiro. Os conceitos iniciais do capítulo apresentado se encontram na [parte 1 do slide de gerencia da configuração de software](https://slides.com/samuelclerod/cg-parte1) .
 
 ## Comandos básicos
 
